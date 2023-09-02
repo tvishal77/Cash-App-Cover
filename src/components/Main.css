@@ -1,0 +1,46 @@
+
+.container {
+    position: relative;
+  }
+  
+  h1.app{
+    color: white;
+    font-size: 40vh;
+    font-style: italic;
+  }
+  .text {
+    position: absolute;
+    z-index: 0;
+    left: -35vh;
+
+    
+
+  }
+  h1{
+    
+    color: white;
+    font-size: 30vh;
+    margin-top: 4vh;
+    font-style: italic;
+}
+
+  .image-container {
+    top: 0;
+    left: 0;
+    transform: rotate(45deg);
+    z-index: 1;
+  }
+
+  .overlapping-text {
+    position: absolute;
+    z-index: 2;
+    transform: rotate(-45deg);
+    top: 25%;
+    left: 40%;
+  }
+  
+  
+  img.rotated-image {
+    width: 120vh;
+    height: 70vh;
+  }

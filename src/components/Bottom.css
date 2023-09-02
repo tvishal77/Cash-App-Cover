@@ -1,0 +1,37 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    padding: 4vh;
+    
+  }
+  
+  .footer-left img {
+    max-height: 45px;
+    padding-right: 3vh;
+  }
+  
+  .footer-right p {
+    display: inline;
+    font-size: xx-small;
+    max-width: 4vh;
+    padding-right: 2vh;
+    text-align: start;
+  }
+  div.container{
+    display: inline;
+    max-height: 30px;
+  }
+  
+ 
+  
+  /* Style the Instagram logo */
+  .footer-right img {
+    max-height: 30px;
+    margin-left: 5px;
+  }

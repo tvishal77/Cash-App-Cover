@@ -1,0 +1,56 @@
+/* App.css */
+
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+
+  }
+  
+  /* Style the header and center the navbar */
+  header {
+    text-align: center;
+    padding:1vh 0;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1vh;
+  }
+  
+  /* Style the navigation links */
+  .navbar ul {
+    list-style: none;
+    
+  }
+  
+  .navbar li {
+    display: inline;
+    margin-right: 3vh;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+  }
+  
+  .navbar a:hover {
+    color: #22f978;
+  }
+  
+  .navbar-left{
+    padding-left: 4vh;
+  }
+  .navbar-right{
+    padding-right: 4vh;
+  }
+  img.image{
+    height: 10vh;
+    margin: 0;
+    padding: 0;
+    border-radius: 100vh;
+  }
+  
