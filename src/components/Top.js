@@ -15,15 +15,15 @@ function Top() {
                 <div className="navbar-center">
                     <ul>
 
-                        <li><a href="#">SIGNIN</a></li>
-                        <li><a href="#">LEGAL</a></li>
-                        <li><a href="#">LISENCES</a></li>
-                        <li><a href="#">SECURITY</a></li>
-                        <li><a href="#">CAREERS</a></li>
-                        <li><a href="#">PRESS</a></li>
-                        <li><a href="#">SUPPORT</a></li>
-                        <li><a href="#">STATUS</a></li>
-                        <li><a href="#">CODEBLOG</a></li>
+                        <li><a href="/">SIGNIN</a></li>
+                        <li><a href="/">LEGAL</a></li>
+                        <li><a href="/">LISENCES</a></li>
+                        <li><a href="/">SECURITY</a></li>
+                        <li><a href="/">CAREERS</a></li>
+                        <li><a href="/">PRESS</a></li>
+                        <li><a href="/">SUPPORT</a></li>
+                        <li><a href="/">STATUS</a></li>
+                        <li><a href="/">CODEBLOG</a></li>
                     </ul>
                 </div>
                 <div className="navbar-right">

@@ -21,7 +21,7 @@ function Main() {
                     <img
                         className="rotated-image"
                         src={phone}
-                        alt="Rotated Image"
+                        alt="Rotated "
                     />
                     <div className="overlapping-text"><h1>APP</h1></div>
                 </div>
